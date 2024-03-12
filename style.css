@@ -7,4 +7,37 @@ h3{
 h3{
     height: 80px;
 }
+div.margin{
+    width: 500px;
+    border: 10px solid orange;
+    padding: 50px;
+    margin: auto;
+    background-color: orange;
+}
+div.border{
+    width: 400px;
+    border: 10px solid blue;
+    padding: 50px;
+    margin: auto;
+    background-color: blue;
+}
+div.padding{
+    width: 300px;
+    border: 10px solid red;
+    padding: 50px;
+    margin: auto;
+    background-color: red;
+}
+div.content{
+    width: 200px;
+    border: 10px solid black;
+    padding: 50px;
+    margin: auto;
+    background-color: black
+}
+div.center{
+    text-align: center;
+    color: white;
+}
+
 
