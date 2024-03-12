@@ -10,34 +10,29 @@ h3{
 div.margin{
     width: 500px;
     border: 10px solid black;
-    padding: 50px;
+    padding: 40px;
     margin: auto;
     background-color: orange;
 }
 div.border{
-    width: 400px;
     border: 10px solid black;
-    padding: 50px;
-    margin: auto;
+    padding: 40px;
     background-color: blue;
 }
 div.padding{
-    width: 300px;
     border: 10px solid black;
-    padding: 50px;
-    margin: auto;
+    padding: 40px;
     background-color: red;
 }
 div.content{
-    width: 200px;
     border: 10px solid black;
-    padding: 50px;
-    margin: auto;
+    padding: 40px;
     background-color: black
 }
-div.center{
-    text-align: center;
+.text{
     color: white;
+    text-align: center;
+    margin: 5px;
+    height: 5px;
 }
-
 
