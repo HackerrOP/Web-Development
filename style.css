@@ -9,21 +9,21 @@ h3{
 }
 div.margin{
     width: 500px;
-    border: 10px solid orange;
+    border: 10px solid black;
     padding: 50px;
     margin: auto;
     background-color: orange;
 }
 div.border{
     width: 400px;
-    border: 10px solid blue;
+    border: 10px solid black;
     padding: 50px;
     margin: auto;
     background-color: blue;
 }
 div.padding{
     width: 300px;
-    border: 10px solid red;
+    border: 10px solid black;
     padding: 50px;
     margin: auto;
     background-color: red;
