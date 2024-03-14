@@ -1,0 +1,45 @@
+.mainnavbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    list-style-type: none;
+    display: inline-block;
+}
+a{
+    color: white;
+}
+li{
+    display: inline;
+}
+.gian{
+    color: white;
+    display: inline-block
+}
+.logo{
+    display: inline-block;
+}
+.backimgdesign{
+    background-color: black;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    background-position: center;
+    height: 100vh;
+}
+.backimgone{
+    background-image: url(https://media.sketchfab.com/models/f15009a6dcce4ba993d3d62126d0c625/thumbnails/cf2c9181391641c7b423d0083f637e47/b57dfa311ab64f02baee9b0ed724708a.jpeg);
+}
+.backimgtwo{
+    background-image: url(https://www.hdwallpapers.in/download/nobita_nobi_doraemon_shizuka_minamoto_takeshi_goda_suneo_honekawa_in_sky_background_hd_cartoon-1920x1080.jpg);
+}
+.backimgthree{
+    background-image: url(https://www.hdwallpapers.in/download/doraemon_and_friends_playing_game_hd_doraemon-1920x1080.jpg);
+}
+.flexlogo{
+    display: flex;
+    justify-content: space-between;
+    height: 90px;
+    background-color: black;
+}
