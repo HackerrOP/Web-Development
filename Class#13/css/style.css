@@ -1,0 +1,87 @@
+.mainnavbar {
+  background-color: black;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+ul {
+  list-style-type: none;
+  display: inline-block;
+}
+
+a {
+  color: white;
+}
+
+li {
+  display: inline;
+}
+
+.gian {
+  color: white;
+  display: inline-block;
+}
+
+.logo {
+  display: inline-block;
+}
+
+.backimgdesign {
+  background-color: black;
+  background-attachment: fixed;
+  background-size: cover;
+  color: white;
+  background-position: center;
+  height: 100vh;
+}
+
+.backimgone {
+  background-image: url(https://www.islamabadscene.com/wp-content/uploads/2016/02/psl6.jpg);
+}
+
+.backimgtwo {
+  background-image: url(https://arynews.tv/wp-content/uploads/2017/03/now.jpg);
+}
+
+.backimgthree {
+  background-image: url(http://www.tsmplug.com/wp-content/uploads/2018/04/Islamabad-United-won-PSL-title-for-2nd-time.jpg);
+}
+
+.backimgfour {
+  background-image: url(https://i.dawn.com/primary/2019/03/5c8eacaad3ce1.jpg);
+}
+
+.backimgfive {
+  background-image: url(https://media.gettyimages.com/id/1229656577/photo/karachi-kings-cricketers-celebrate-with-the-trophy-after-winning-the-pakistan-super-league.jpg?s=612x612&w=gi&k=20&c=cKHH8PGT6JR1cg8SVbrcO58C0FhY0HG9RfZCZBXQkok=);
+}
+
+.backimgsix {
+  background-image: url(https://propakistani.pk/wp-content/uploads/2021/06/PSL-6-Final-Feature.png);
+}
+
+.backimgseven {
+  background-image: url(https://www.geo.tv/assets/uploads/updates/2022-02-27/401912_9732472_updates.jpg);
+}
+
+.backimgeight {
+  background-image: url(https://media.gettyimages.com/id/1238812846/photo/lahore-qalandars-captain-shaheen-shah-afridi-and-teammate-celebrate-with-the-trophy-after.jpg?s=612x612&w=gi&k=20&c=Op4uboJBsSZAFJuEX2e_IiIA8hmZVSFJWhU8yzKRuUM=);
+}
+
+.backimgnine {
+  background-image: url(https://psl-t20.com/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-19-at-02.41.12_51b95989-1170x678.jpg);
+}
+
+.flexlogo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  height: 90px;
+  background-color: black;
+}
