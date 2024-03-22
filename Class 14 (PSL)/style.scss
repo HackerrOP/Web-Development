@@ -1,0 +1,168 @@
+.logos {
+    background-color: #195d10;
+    display: flex;
+    justify-content: end;
+    // margin-left: 10px;
+    gap: 10px;
+    padding: 0%;
+}
+
+body {
+    margin: 0px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.second {
+    background-color: #0a3406;
+    display: flex;
+    justify-content: space-around;
+    // margin-left: 5px;
+    gap: 5px;
+    align-items: center;
+    // display: none;
+
+    ul {
+        list-style-type: none;
+        display: inline-block;
+
+        li {
+            display: inline;
+            margin-left: 5px;
+            gap: 5px;
+
+            a {
+                color: white;
+                text-decoration: none;
+
+            }
+        }
+    }
+}
+
+.dd{
+    display: none;
+    background-color: #0a3406;
+}
+.third {
+    background-color: #195d10;
+}
+
+.points {
+    margin-left: 36vw;
+    color: #195d10;
+}
+
+.table {
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+
+    thead {
+        tr {
+            th {
+                border: 1px solid black;
+                padding: 10px;
+            }
+        }
+    }
+
+    tbody {
+        tr {
+            td {
+                border: 1px solid black;
+                padding: 20px;
+            }
+        }
+    }
+}
+
+.teams {
+    margin-left: 36vw;
+    color: #195d10;
+}
+
+.teamlogo {
+    display: flex;
+    justify-content: center;
+    // margin-left: auto;
+    // margin-right: auto;
+}
+
+@media (max-width: 1440px) {
+    .logos {
+        background-color: black;
+    }
+}
+
+@media (max-width: 991px) {
+    .second {
+        display: none;
+    }
+    .dd{
+        display: block;
+    }
+}
+.stats{
+    margin-left: 40vw;
+    color: #195d10;
+}
+.stat{
+    background-color: #195d10;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 25px;
+    max-width: 900px;
+    width: 100%;
+    text-align: center;
+}
+.iframe{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+.latest{
+    margin-left: 40vw;
+    color: #195d10;
+}
+.t{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+.t1{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+.t2{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+.sponsor{
+    margin-left: 40vw;
+    color: #195d10;
+}
+.sp{
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+}
+.quick{
+    margin-left: 330px;
+}
+.list{
+    margin-left: 330px;
+}
